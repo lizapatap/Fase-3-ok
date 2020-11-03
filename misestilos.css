@@ -1,0 +1,31 @@
+
+.titulo{
+    color: #333333 ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+   }
+
+.body{
+    color: #b3b3b3 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    
+    
+    
+}
+.menu{
+    text-decoration-color: #ff5900;
+    text-align: center; 
+    padding: 20px;
+    background-color: #f0b429;
+    width: 100%;
+    }
+
+.tabla{
+    color: #008fb3 ;
+    width: 80%;
+    margin: 5%;
+    justify-content: center;
+    }
+
